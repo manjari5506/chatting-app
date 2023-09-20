@@ -1,5 +1,5 @@
-//const host = "https://messanger-ap.herokuapp.com";
-const host = "http://localhost:5000";
+const host = "https://chatting-app-9hxt.onrender.com";
+//const host = "http://localhost:5000";
 const loginRoute = `${host}/api/auth/login`;
 const registerRoute = `${host}/api/auth/register`;
 const logoutRoute = `${host}/api/auth/logout`;
